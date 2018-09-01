@@ -55,4 +55,25 @@ ___
 <!--Image-->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
+<!--   GITHUB MARKDOWN -->
 
+<!--Code Blocks-->
+```javascript 
+function add (num1,num2)
+ {
+ 	return num1+num2;
+ }
+ ```
+
+ <!--Tables-->
+
+ |  Name    |  Email              |
+ |--------- | --------------------|
+ |Khushkool | khushkool@alhkem.com|
+ | Muskaan  | muskaan@alhkem.com  |
+ | Jatin    | jatin@alhkem.com    |
+
+ <!--Task lists -->
+ *[x] Task 1
+ *[x] Task 2
+ *[]  Task 3
