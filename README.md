@@ -8,10 +8,10 @@
 <!--This is a comment-->
 
 <!-- Headings -->
-#Heading 1 
-##Heading 2 
-###Heading 3
-####Heading 4
+# Heading 1 
+## Heading 2 
+### Heading 3
+#### Heading 4
 
 <!--Italics-->
 *This text* is italics. 
@@ -74,6 +74,7 @@ function add (num1,num2)
  | Jatin    | jatin@alhkem.com    |
 
  <!--Task lists -->
- *[x] Task 1
- *[x] Task 2
- *[]  Task 3
+
+ * [x] Task 1
+ * [x] Task 2
+ * [ ] Task 3
